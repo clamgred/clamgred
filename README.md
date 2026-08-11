@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hola, mi nombre es Eddie Grover 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="aqui direccion"/>    
+</div>
+
+
+<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
+
+
 
 <!--
 **clamgred/clamgred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
